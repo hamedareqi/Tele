@@ -1,0 +1,21 @@
+{
+  "name": "whatsapp-digital-hamed",
+  "version": "1.0.0",
+  "description": "WhatsApp personal clone bot (Digital Hamed) + Telegram admin — single-file setup",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "form-data": "^4.0.0",
+    "fs-extra": "^11.1.1",
+    "qrcode-terminal": "^0.12.0",
+    "express": "^4.18.2",
+    "whatsapp-web.js": "^1.20.2",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
