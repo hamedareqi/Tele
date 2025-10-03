@@ -54,4 +54,4 @@ if __name__ == "__main__":
 
     # تشغيل بوت تيليجرام
     application = run_bot()
-    application.run_polling()￼Enter
+    application.run_polling()
